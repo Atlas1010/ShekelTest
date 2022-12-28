@@ -2,6 +2,6 @@
 ## Enjoy it...
 
 ### Technologies
-* .NET Core  Entity FrameWork
+* .NET Core 6.0 Entity FrameWork
 * SQL Server
 
