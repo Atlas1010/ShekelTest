@@ -3,5 +3,5 @@
 
 ### Technologies
 * .NET Core 6.0 Entity FrameWork (Visual Studio 2022)
-* SQL Server
+* SQL Serverb - including Stored Procedure
 
